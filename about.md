@@ -6,7 +6,7 @@ permalink: /about/
 
 ### important to me
 
-Disparity in access to fundamental rights (i.e. education, healthcare) frustrates and also motives me; obviously, I believe that educaiton and healthcare are fundamental rights. I like to work with young kids and help them with the TEM of STEM (mostly, especially, for kids that don't otherwise have access to focused attention). When I (hopefully) earn my MD, I intend to use it along with my background in mathematics and health economics to help people that nobody else will.
+Disparity in access to fundamental rights (i.e. education, healthcare) frustrates and also motives me; obviously, I believe that educaiton and healthcare are fundamental rights. I like to work with young kids and help them with the TEM of STEM (mostly, especially, for kids that don't otherwise have access to focused attention). My goal has always been the same - to help people that nobody else will.
 
 ### athletic history
 
@@ -14,7 +14,7 @@ From 2014 to 2016, during my last two college years, I tunneled hard on calisthe
 
 ### academic background
 
-I graduated from the University of Connecticut in 2016 with a Bachelors of Science in Pure Mathematics. Since then, I've been at the Massachusetts General Hospital and Harvard Medical School doing research at the Insitute for Technology Assessment. The work I do is a blend of mathematics, computer science, and medicine. My most recent publications are below:
+I graduated from the University of Connecticut in 2016 with a Bachelors of Science in Pure Mathematics. Since then, I've been at the Massachusetts General Hospital and Harvard Medical School doing research at the Insitute for Technology Assessment. The work I do is a blend of mathematics, computer science, and medicine. I'll be attending medical school in the fall (M.D. '22). My most recent publications are below:
 
 - Kabrhel C, Ali A, Choi JG, Hur C. "Systemic Thrombolysis, Catheter-Directed Thrombolysis, and Anticoagulation for Intermediate-Risk Pulmonary Embolism: A Simulation Modeling Analysis". Academic Emergency Medicine. 2017 October 24.
 		
