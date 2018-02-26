@@ -4,16 +4,15 @@ title: about
 permalink: /about/
 ---
 
-### Athletic History
-
-From 2014 to 2016, during my last two college years, I tunneled hard on calisthenics. It gave me a solid foundation to control my bodyweight, and I lost about 70 lbs in the process. However, during my graduate school applications, calisthenics didn't feel like enough. So, I got into mixed martial arts (MMA); recently I've been obsessive about Brazilian Jiu-Jitsu.
-
-### Important to Me
+### important to me
 
 Disparity in access to fundamental rights (i.e. education, healthcare) frustrates and also motives me; obviously, I believe that educaiton and healthcare are fundamental rights. I like to tutor, especially for low-income children, and I enjoy working with young girls with subjects in the TEM (technology, engineering, mathematics) part of S(science)TEM. When I (hopefully) earn my MD, I intend to use it along with my background in mathematics and health economics to help people that nobody else will.
 
+### athletic history
 
-### Academic History
+From 2014 to 2016, during my last two college years, I tunneled hard on calisthenics. It gave me a solid foundation to control my bodyweight, and I lost about 70 lbs in the process. However, during my graduate school applications, calisthenics didn't feel like enough. So, I got into mixed martial arts (MMA); recently I've been obsessive about Brazilian Jiu-Jitsu.
+
+### academic background
 
 I graduated from the University of Connecticut in 2016 with a Bachelors of Science in Pure Mathematics. Since then, I've been at the Massachusetts General Hospital and Harvard Medical School doing research at the Insitute for Technology Assessment. The work I do is a blend of mathematics, computer science, and medicine. My most recent publications are below:
 
