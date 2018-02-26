@@ -6,7 +6,7 @@ permalink: /about/
 
 ### important to me
 
-Disparity in access to fundamental rights (i.e. education, healthcare) frustrates and also motives me; obviously, I believe that educaiton and healthcare are fundamental rights. I like to tutor, especially for low-income children, and I enjoy working with young girls with subjects in the TEM (technology, engineering, mathematics) part of S(science)TEM. When I (hopefully) earn my MD, I intend to use it along with my background in mathematics and health economics to help people that nobody else will.
+Disparity in access to fundamental rights (i.e. education, healthcare) frustrates and also motives me; obviously, I believe that educaiton and healthcare are fundamental rights. I like to work with young kids and help them with the TEM of STEM (mostly, especially, for kids that don't otherwise have access to focused attention). When I (hopefully) earn my MD, I intend to use it along with my background in mathematics and health economics to help people that nobody else will.
 
 ### athletic history
 
