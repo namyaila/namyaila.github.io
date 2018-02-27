@@ -6,7 +6,7 @@ permalink: /about/
 
 ### important to me
 
-Disparity in access to fundamental rights (i.e. education, healthcare) frustrates and also motives me; obviously, I believe that educaiton and healthcare are fundamental rights. I like to work with young kids and help them with the TEM of STEM (mostly, especially, for kids that don't otherwise have access to focused attention). My goal has always been the same - to help people that nobody else will.
+Disparity in access to fundamental rights (i.e. education, healthcare) frustrates and also motives me; obviously, I believe that education and healthcare are fundamental rights. I like to work with young kids and help them with the TEM of STEM (mostly, especially, for kids that don't otherwise have access to focused attention). My goal has always been the same - to help people that nobody else will.
 
 ### athletic history
 
