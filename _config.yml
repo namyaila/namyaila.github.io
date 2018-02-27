@@ -21,7 +21,7 @@ url: "https://namyaila.github.io" # the base hostname & protocol for your site, 
 twitter_username: namyaila
 github_username:  namyaila
 instagram_username: namyaila
-
+google_analytics: UA-114873673-1
 # Build settings
 markdown: kramdown
 theme: minima
