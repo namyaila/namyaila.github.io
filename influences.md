@@ -1,10 +1,10 @@
 ---
 layout: page
-title: sayings i like
-permalink: /sayings_i_like/
+title: influences
+permalink: /influences/
 ---
 
-You'll probably recognize some of these from index cards I've taped to my laptop since I was a freshman in college. They're organized by author and I try to keep it updated as I read. Each author has been a huge influence on me in their own way.
+If you've ever worked with me, you'll recognize some of these quotes from index cards that I've been taping to my laptop since I was a freshman in college. They're organized by author and I keep this list updated as I read.
 
 ### James Orbinski
 
