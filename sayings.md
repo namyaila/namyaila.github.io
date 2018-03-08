@@ -1,7 +1,7 @@
 ---
 layout: page
-title: sayings
-permalink: /sayings/
+title: sayings i like
+permalink: /sayings_i_like/
 ---
 
 You'll probably recognize some of these from index cards I've taped to my laptop since I was a freshman in college. They're organized by author and I try to keep it updated as I read. Each author has been a huge influence on me in their own way.
@@ -32,11 +32,11 @@ You'll probably recognize some of these from index cards I've taped to my laptop
 
 ### Rumi
 
-"\
-Knock, and He'll open the door.\
-Vanish, and He'll make you shine like the sun.\
-Fall, and He'll raise you to the heavens\
-Become nothing, and He'll turn you into everything.\
+"  
+Knock, and He'll open the door.  
+Vanish, and He'll make you shine like the sun.  
+Fall, and He'll raise you to the heavens  
+Become nothing, and He'll turn you into everything.  
 "
 
 ### Albert Camus
