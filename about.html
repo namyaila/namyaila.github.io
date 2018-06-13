@@ -1,0 +1,42 @@
+---
+layout: page
+title: about
+permalink: /about/
+---
+<i>To those who do not know mathematics it is difficult to get across a real feeling as to the beauty, the deepest beauty, of nature. … If you want to learn about nature, to appreciate nature, it is necessary to understand the language that she speaks in. 
+</i>
+<br>
+<br>
+-- Richard Feynman, chapter 2, The Relation of Mathematics to Physics, p. 58
+<br>
+<br>
+I graduated from the University of Connecticut in 2016 with a degree in mathematics. That May, I moved to Boston to work as a researcher (and programmer) for two years at the Institute for Technology Assessment at the Massachusetts General Hospital. From August 2018 - May 2022, I'll be at Tulane University School of Medicine (MD). Publications can be found at my  
+<a href = "https://scholar.google.com/citations?user=S-iDFMsAAAAJ&hl=en">google scholar page</a>.
+<br>
+<br>
+<br>
+Random pictures of me:
+<br>
+<br>
+<br>
+<img class="index_slides" src="/assets/stroke_just_me.jpg">
+<img class="index_slides" src="/assets/wrecked_by_matt.jpg">
+
+<script>
+var slide_index = 0;
+move()
+function move(){
+  var x = document.getElementsByClassName("index_slides");
+  var i = 0;
+  while( i < x.length){
+    x[i].style.display = "none";
+    i += 1;
+  }
+  slide_index += 1;
+  if (slide_index >= x.length){
+    slide_index = 0;
+  }
+  x[slide_index].style.display = "block";
+  setTimeout(move, 8000);
+}
+</script>

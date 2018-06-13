@@ -18,9 +18,8 @@ email: ayman.ali1230@gmail.com
 # description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://namyaila.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: namyaila
 github_username:  namyaila
-instagram_username: namyaila
+instagram_username: aym_in.finite
 google_analytics: UA-114873673-1
 # Build settings
 markdown: kramdown
