@@ -1,21 +1,23 @@
----
-layout: page
-title: about
-permalink: /about/
----
-<i>To those who do not know mathematics it is difficult to get across a real feeling as to the beauty, the deepest beauty, of nature. … If you want to learn about nature, to appreciate nature, it is necessary to understand the language that she speaks in. 
+--- layout: page title: about permalink: /about/ ---
+<i>
+  <small>To those who do not know mathematics it is difficult to get across a real feeling as to the beauty, the deepest beauty,
+    of nature. … If you want to learn about nature, to appreciate nature, it is necessary to understand the language that
+    she speaks in.
+  </small>
 </i>
 <br>
+<br> -- Richard Feynman, chapter 2, The Relation of Mathematics to Physics, p. 58
 <br>
--- Richard Feynman, chapter 2, The Relation of Mathematics to Physics, p. 58
+<br> I graduated from the University of Connecticut in 2016 with a degree in pure mathematics. That May, I moved to Boston and
+stayed for two years at the Institute for Technology Assessment, Massachusetts General Hospital / Harvard Medical School.
+I was a computer scientist and mathematician, working on a wide variety of research projects including topics such as stroke,
+neonatal resuscitation, esophageal adenocarcinoma, and thyroid cancer. I'm currently at student at Tulane University School
+of Medicine working towards an MD. Publications can be found at my
+<a href="https://scholar.google.com/citations?user=S-iDFMsAAAAJ&hl=en">google scholar page</a>. My future interests include, broadly, improving pediatric emergency / trauma care in low-resource
+settings.
 <br>
 <br>
-I graduated from the University of Connecticut in 2016 with a degree in mathematics. That May, I moved to Boston to work as a researcher (and programmer) for two years at the Institute for Technology Assessment at the Massachusetts General Hospital. From August 2018 - May 2022, I'll be at Tulane University School of Medicine (MD). Publications can be found at my  
-<a href = "https://scholar.google.com/citations?user=S-iDFMsAAAAJ&hl=en">google scholar page</a>.
-<br>
-<br>
-<br>
-Random pictures of me:
+<br> Random pictures of me:
 <br>
 <br>
 <br>
@@ -23,20 +25,20 @@ Random pictures of me:
 <img class="index_slides" src="/assets/wrecked_by_matt.jpg">
 
 <script>
-var slide_index = 0;
-move()
-function move(){
-  var x = document.getElementsByClassName("index_slides");
-  var i = 0;
-  while( i < x.length){
-    x[i].style.display = "none";
-    i += 1;
+  var slide_index = 0;
+  move()
+  function move() {
+    var x = document.getElementsByClassName("index_slides");
+    var i = 0;
+    while (i < x.length) {
+      x[i].style.display = "none";
+      i += 1;
+    }
+    slide_index += 1;
+    if (slide_index >= x.length) {
+      slide_index = 0;
+    }
+    x[slide_index].style.display = "block";
+    setTimeout(move, 8000);
   }
-  slide_index += 1;
-  if (slide_index >= x.length){
-    slide_index = 0;
-  }
-  x[slide_index].style.display = "block";
-  setTimeout(move, 8000);
-}
 </script>
