@@ -1,0 +1,440 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=latex 2018.8.6)  30 MAR 2020 22:12
+entering extended mode
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx\HCode\def\HCod
+e##1{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.{\g
+@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\doc
+umentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname te
+x4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{\HC
+ode}{\documentstyle[tex4ht]}}}\makeatother\HCode .a.b.c.\input  cv.tex
+(cv.tex
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\tex4ht.st
+y"
+version 2019-03-18-15:24
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\usepackag
+e.4ht"
+version 2019-12-19-14:27
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\anysize\anysize.st
+y"
+Package: anysize 1994/08/13 setting margin sizes
+
+document style option `anysize' loaded
+Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
+Version 1.0, Aug 13, 1994
+\@Leftmargin=\dimen103
+\@Rightmargin=\dimen104
+\@Topmargin=\dimen105
+\@Bottommargin=\dimen106
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+"
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count88
+\mult@box=\box26
+\multicol@leftmargin=\dimen107
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
+\full@width=\dimen108
+\page@free=\dimen109
+\premulticols=\dimen110
+\postmulticols=\dimen111
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen112
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count94
+\c@finalcolumnbadness=\count95
+\last@try=\dimen113
+\multicolovershoot=\dimen114
+\multicolundershoot=\dimen115
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count96
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
+sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\enitkv@toks@=\toks15
+\labelindent=\skip45
+\enit@outerparindent=\dimen116
+\enit@toks=\toks16
+\enit@inbox=\box52
+\enitdp@description=\count97
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nopageno\nopageno.
+sty"
+Package: nopageno 1989/01/01 no page numbers (DPC)
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\tex4ht.4h
+t"
+version 2018-12-30-09:29
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\tex4ht.st
+y"
+version 2019-03-18-15:24
+
+--- needs --- tex4ht cv ---
+\tmp:cnt=\count98
+\openout15 = `cv.tmp'.
+
+(cv.tmp)
+\tmp:dim=\skip46
+--------------------------------------
+--- Note --- for XML code, use the command line option `xml' or `xhtml'
+--------------------------------------
+ (cv.xref)
+\:refout=\write3
+\openout3 = `cv.xref'.
+
+
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+)
+\:tokwrite=\toks17
+\:tokpage=\toks18
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `cv.4ct'.
+
+\:tocout=\write4
+\openout4 = `cv.4tc'.
+
+
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\latex.4ht
+"
+version 2019-08-26-14:22
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\fontmath.
+4ht"
+version 2018-11-06-15:55
+
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\article.4
+ht"
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\multicol.
+4ht"
+version 2013-07-31-09:45
+
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\enumitem.
+4ht"
+version 2009-05-21-09:32
+
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4.4ht
+"
+version 2020-01-24-14:39
+)
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tex4ht\html4-mat
+h.4ht"
+version 2019-12-16-15:21
+)) (cv.aux)
+\openout1 = `cv.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+--- file cv.css ---
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 54.
+
+("C:\Users\ayman\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
+
+[1
+
+] [2] [3] [4] [5] (cv.aux) ) 
+Here is how much of TeX's memory you used:
+ 3965 strings out of 492974
+ 46930 string characters out of 3126719
+ 248696 words of memory out of 3000000
+ 7824 multiletter control sequences out of 15000+200000
+ 5972 words of font info for 22 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,4n,24p,922b,465s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on cv.dvi (5 pages, 31460 bytes).
