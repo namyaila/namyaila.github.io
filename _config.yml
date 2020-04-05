@@ -23,7 +23,7 @@ instagram_username: aym_in.finite
 google_analytics: UA-114873673-1
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
